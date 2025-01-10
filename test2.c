@@ -4,6 +4,6 @@
 
 int main()
 {
-	printf("xishuashua\n");
+	printf("wakaka\n");
 	return 0;
 }
